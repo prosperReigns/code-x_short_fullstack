@@ -1,17 +1,48 @@
-Cloning a Git repository and working locally
+Task 0
+- create a new repo "p_set"
+- clone repo unto local computer
+- create a Readme.md file in root directory
+configure directory
+- add to staging area
+- commit changes
+- push changes
 
-1. Configure Git command line and editor if you haven’t done that already.
+Task 1
+- create 3 directory one, two, three
+- update the directory according
 
-2. Decide which repository you want to clone: your fork or the original repository? Both will work for this exercise. Then, clone the recipe book.
+one/index.html, one/README.md
+two/main.js, two/script.js, two/README.md 
+three/test, three/README.md
 
-3. Create a new branch.
+- update the files according
+index.html : hello world
+main.js : first script
+script.js. : my second script
 
-4. Make a commit on your new branch.
+- add to staging area
+- commit changes
+- push changes
 
-5. Switch back to the main branch and create one or two commits there.
+task 2
+Using github web
+- update three/test : welcome to code-x
 
-6. Merge the new branch into main.
+Task 3
+- update local repository with the new code
+- update three/test : welcome to Code-X community
+- add to staging area
+- commit changes 
+- push changes
 
-7. Compare the graph locally and on GitHub and observe that the changes only exist locally on your computer.
+Task 4
+- create a branch v1
+- delete two/main.js file
+- update two/script.js: my only script
+- update three/test : welcome to Code-X community short fullstack course
 
-8. Where are the remote branches? Practice how you can see all remote branches also locally and how you can fetch them and make local changes to them.
+- add to staging area
+- commit changes
+- merge branches
+- fix merge issue
+- push changes 
