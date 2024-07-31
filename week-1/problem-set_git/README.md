@@ -2,7 +2,7 @@ Task 0
 - create a new repo "p_set"
 - clone repo unto local computer
 - create a Readme.md file in root directory
-configure directory
+- configure directory
 - add to staging area
 - commit changes
 - push changes
@@ -36,13 +36,27 @@ Task 3
 - push changes
 
 Task 4
-- create a branch v1
+- create a branch 'p_set_v1'
+- switch branch
 - delete two/main.js file
 - update two/script.js: my only script
 - update three/test : welcome to Code-X community short fullstack course
 
 - add to staging area
 - commit changes
+- switch branch
 - merge branches
-- fix merge issue
-- push changes 
+- push changes
+
+Task 5
+ - on master branch update three/test : welcome to Code-X community short fullstack course using python, html, css and javascript
+- add to staging area
+- commit changes
+- swith branch to 'p_set_v1'
+- update three/test : welcome to Code-X community short fullstack course using python (Django), html, css and javascript(Jquery)
+- add to staging area
+- commit changes
+- switch branch to master
+- merge branches
+- fix merge conflict
+- push changes
